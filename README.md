@@ -1,3 +1,3 @@
 # AtividadePOO2
 
-<img align='right' src="https://github.com/GabriellyC/AtividadePOO2/IMG/gabi.jpg" width="230">
+![test image size]<img src="https://raw.githubusercontent.com/GabriellyC/AtividadePOO2/main/IMG/gabi.jpg" width="400" height="790">
